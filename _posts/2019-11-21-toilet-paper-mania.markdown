@@ -29,7 +29,8 @@ This project is a response towards the panic buying of toilet paper during COVID
 
 <iframe class="responsive-iframe" src="https://player.vimeo.com/video/416688355" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
-<p><a href="https://vimeo.com/416688355">Toilet Paper Mania - Yiting Liu 2020</a> from <a href="https://vimeo.com/yl97">yiting liu</a> on Vimeo.</p>
+
+<!-- <p><a href="https://vimeo.com/416688355">Toilet Paper Mania - Yiting Liu 2020</a> from <a href="https://vimeo.com/yl97">yiting liu</a> on Vimeo.</p> -->
 
 ## Project Description
 

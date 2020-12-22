@@ -11,7 +11,7 @@ url: "https://www.yitingliu.com" # the base hostname & protocol for your site
 github_username:  Yitingliu97
 instagram_username: yliu.designs
 linkedin_username: yitingliu97
-
+soundcloud_username: yitingliu
 # Build settings
 markdown: kramdown
 permalink: none
@@ -19,3 +19,6 @@ permalink: none
 kramdown:
   input: GFM    
   # auto_ids: true
+
+plugins:
+  - jekyll-archives

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The White Snake"
-date:   2020-04-02
+date:   2020-11-03
 permalink: white-snake
 description: A non-linear immersive storytelling of a Chinese myth. 
 
@@ -10,13 +10,7 @@ tags: [web, jekyll]
 preview: ../assets/white-snake/demo.png
 
 ---
-# The White Snake
-<!-- 
-Created: Dec 14, 2020 3:07 PM
-Tags: storytelling, web
-collaborator: Wen
-github: https://github.com/YitingLiu97/judge
-url: https://whitesnake.netlify.app/ -->
+
 
 ![assets/white-snake/demo.png](assets/white-snake/demo.png)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sun and Us"
-date:   2020-03-02
+date:   2020-12-17
 permalink: sun-and-us
 description: An interactive audio experience that creates a symphony of field recordings from the sun and us. 
 
@@ -11,14 +11,7 @@ preview: ../assets/sun-and-us/demo2.png
 
 ---
 
-# Sun and Us - Interactive Audio Experience
-
-<!-- Created: Dec 14, 2020 3:07 PM
-Tags: interactive, music, web
-github: https://github.com/YitingLiu97/sun-pos-sounds
-url: https://sunandus.netlify.app/ -->
-
-### Perform a symphony with the sun.
+**Perform a symphony with the sun.**
 
 # Highlights
 
@@ -29,8 +22,6 @@ Exhibitions:
 # Concept
 
 To make an installation that touches you the deepest and purest emotion by letting nature and you perform a symphony together.
-
-# Concept
 
 Nature has always been a part I want to explore. When I was little, I went to the park near our home with my grandma frequently. The wind blowing through the willows, the birds bringing their music while flying, and the people chatting and laughing are so interesting to me. They are like a symphony. Yet, as I grow older, I spend less time in the park, or with the nature. I want to forever remember the memory I had when I was little, with my grandma, playing, and listening to the sounds.
 

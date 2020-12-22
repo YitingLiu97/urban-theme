@@ -26,6 +26,8 @@ pre{
 $font-stack:    Helvetica, sans-serif;
 $primary-color: #333;
 $font-size: 2rem;
+$font-size-mobile: 1.5rem;
+
 $background-col: white;
 
 body {
@@ -40,3 +42,11 @@ h1,h2,h3{
   
 }
 
+
+@media (max-width: 40.0rem) {
+
+body{
+  font-size: $font-size-mobile;
+}
+  
+}

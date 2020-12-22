@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Icarus and Daedalus"
-date:   2020-02-06
+date:   2020-10-10
 description: Same Story - Two Presentations
 permalink: icarus
 category: Dev
