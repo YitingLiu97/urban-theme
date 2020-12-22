@@ -1,6 +1,12 @@
 /**
  * Site header
  */
+ 
+ *{
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica, sans-serif;
+ }
  .wrapper .container {
     max-width: 80rem;
 }
@@ -21,11 +27,29 @@
 .post-nav {
     text-align: center;
     padding: 1rem;
+    width: 100%;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+}
+.side-nav{
+    position: fixed;
+    border: 1pt red dotted;
+    display: block;
 }
 
 .post-title {
     display: block;
+    font-size: x-large;
 }
+
+.post-description{
+    padding: 1rem 0;
+    font-style: italic;
+    font-size: medium;
+    color: darkred;
+}
+
 
 /**
  * override column size for mobile

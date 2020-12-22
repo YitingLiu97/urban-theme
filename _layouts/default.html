@@ -1,24 +1,34 @@
 <!DOCTYPE html>
 <html>
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body>
+<body>
 
-    <main class="wrapper">
-      
-      {% include header.html %}
+  <main class="wrapper">
 
-      <div class="container">
-        {{ content }}
+    {% include header.html %}
 
-        {% include footer.html %}
-      </div>
-    
-    </main>
+    <div class="container">
 
-    {% include scripts.html %}
-    
-  </body>
+      {% comment %}
+      =======================
+      The purpose of this snippet is to list all the tags you have in your site.
+      =================== ====
+      {% endcomment %}
+      {% for tag in tags %}
+      <a href="#{{ tag | slugify }}"> {{ tag }} </a>
+      {% endfor %}
+
+      {{ content }}
+
+      {% include footer.html %}
+    </div>
+
+  </main>
+
+  {% include scripts.html %}
+
+</body>
 
 </html>
